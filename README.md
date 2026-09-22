@@ -4,7 +4,7 @@ I'm a QA software engineer so Quality is what everything needs. <br>
 
 ## About Me
 - Location: Bangkok, Thailand 🇹🇭
-- Experience: Over 3 years 🧑🏻‍💻
+- Experience: Over 4 years 🧑🏻‍💻
 - How about work:
   - Analyse and Design test scenarios / test cases based on technique design from Product Requirements.
   - Test planning and prioritization.
@@ -15,20 +15,22 @@ I'm a QA software engineer so Quality is what everything needs. <br>
 ## Skills
 
 #### Languages
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/supuck-tk)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/supuck-tk)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/supuck-tk)
 
 #### Frameworks & Library 
-* [![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://github.com/supuck-tk)
+* <img src="https://custom-icon-badges.demolab.com/badge/Playwright-323330?style=for-the-badge&logo=playwright&logoColor=fffff" width="133" />
 * [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/supuck-tk)
+* [![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://github.com/supuck-tk)
 * [![WebdriverIO](https://img.shields.io/badge/webdriver_io-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)](https://github.com/supuck-tk)
-* [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/supuck-tk)
 * [![Appium](https://img.shields.io/badge/Appium-483699?style=for-the-badge&logo=appium&logoColor=white)](https://github.com/supuck-tk)
+* [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://github.com/supuck-tk)
 
 #### Tools
-* [![Github-Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/supuck-tk)
 * [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/supuck-tk)
 * [![Appium Inspector](https://img.shields.io/badge/Appium_Inspector-EE376D?style=for-the-badge&logo=appium&logoColor=white)](https://github.com/supuck-tk)
+* <img src="https://custom-icon-badges.demolab.com/badge/Allure_Report-323330?style=for-the-badge&logo=allure-report&logoColor=fffff" width="152" />
+* [![Github-Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/supuck-tk)
 
 ## Blog Posts
 * [SDLC with Agile & Scrum](https://medium.com/chomchob/ในโลกของ-sdlc-แนวคิด-agile-scrum-ช่วยให้ทำงานง่ายขึ้น-จริงหรือ-9117d5946461)
